@@ -1,0 +1,100 @@
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 1
+Enter number of Index pointers: Enter number of Data pointers: 1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 0
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 1
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add ROOT1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 60
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 1
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 45
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 33
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 2
+Enter key to add 1
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 4
+
+*** NodeID :: Values ***
+
+1 :: 60 
+2 :: 33 45 
+3 :: 77 
+4 :: 11 14 
+5 :: 33 
+6 :: 45 55 
+7 :: 60 
+8 :: 77 100 
+
+
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 3
+Enter key to search: Key 68 not found.
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 3
+Enter key to search: Key 60 found
+1. Create new tree
+2. Add new key to the tree
+3. Search a key in the tree
+4. Postorder traversal of the tree
+Any other choice to exit
+Enter your choice: You entered 6
